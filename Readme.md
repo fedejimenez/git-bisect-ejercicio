@@ -7,7 +7,7 @@
 Clone this repository to your local machine like so:
 
 ```
-git clone git@github.com:bradleyboy/bisectercise.git
+git clone https://github.com/fedejimenez/git-bisect-ejercicio.git
 cd bisectercise
 ```
 
