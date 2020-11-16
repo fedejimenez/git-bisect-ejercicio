@@ -8,7 +8,7 @@ Clone this repository to your local machine like so:
 
 ```
 git clone https://github.com/fedejimenez/git-bisect-ejercicio.git
-cd bisectercise
+cd git-bisect-ejercicio
 ```
 
 ## See the broken functionality
